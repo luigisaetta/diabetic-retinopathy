@@ -16,7 +16,7 @@ I have:
 
 Best result obtained:
 * accuracy: 0.85
-* see also my (late) submission on Kaggle, best score is: 0.72261 (around 30-place)
+* see also my (late) submission on Kaggle, best score is: **0.72261** (around 30-place)
 
 
 
