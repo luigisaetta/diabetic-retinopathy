@@ -1,9 +1,11 @@
 # diabetic-retinopathy
 
+Luigi Saetta, luigi.saetta@gmail.com
+
 August 2020 (Asiago, Italy)
 
 This repository contains the best code I have developed working on Kaggle (2015)
-diabetic retinopathy dataset
+Diabetic Retinopathy Detection competition dataset
 
 see: https://www.kaggle.com/c/diabetic-retinopathy-detection
 
