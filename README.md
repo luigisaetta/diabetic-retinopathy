@@ -15,7 +15,7 @@ I have:
 * developed models based on TF 2.3, CNN (Efficient Net)
 
 Best result obtained:
-* accuracy: 0.85
+* Train accuracy: 0.865
 * see also my (late) submission on Kaggle, best score is: **0.72261** (around 30-place)
 
 
