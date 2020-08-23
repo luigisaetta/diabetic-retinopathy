@@ -1,4 +1,4 @@
-# diabetic-retinopathy
+# Diabetic Retinopathy Detection (based on CNN)
 
 Luigi Saetta, luigi.saetta@gmail.com
 
