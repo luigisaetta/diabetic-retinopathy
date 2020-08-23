@@ -20,6 +20,9 @@ Best result obtained:
 
 ## Datasets
 
-for access to datasets used, see Datasets page in the Wiki
+for access to datasets used, see Datasets page in the Wiki:
+
+https://github.com/luigisaetta/diabetic-retinopathy/wiki/Datasets
+
 
 
