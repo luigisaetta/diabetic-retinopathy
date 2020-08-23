@@ -18,5 +18,8 @@ Best result obtained:
 * Train accuracy: 0.865
 * see also my (late) submission on Kaggle, best score is: **0.72261** (around 30-place)
 
+## Datasets
+
+for access to datasets used, see Datasets page in the Wiki
 
 
