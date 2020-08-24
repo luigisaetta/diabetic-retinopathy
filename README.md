@@ -18,7 +18,7 @@ Best result obtained:
 * images 512x512, circle-crop + gaussian blur
 * EfficientNet 4
 * Train accuracy: 0.865
-* see also my (late) submission on Kaggle, best score is: **0.72261** (around 30-place)
+* see also my (late) submission on Kaggle, best score is: **0.79369** (14 place over 660)
 
 ## Datasets
 
